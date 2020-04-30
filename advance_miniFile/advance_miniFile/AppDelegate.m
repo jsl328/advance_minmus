@@ -16,6 +16,10 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+    
+    NSLog(@"git svn");
+    
     // Override point for customization after application launch.
     return YES;
 }
